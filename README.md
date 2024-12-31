@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate on Fiver & Upwork along with other free lancing portals.
 - 📫 How to reach me ...[will tell you when I'm fully prepared for this task]
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ...Male
+- ⚡ Fun fact: ...Currently JS is a fun.
 
 <!---
 ali-raza6/ali-raza6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
